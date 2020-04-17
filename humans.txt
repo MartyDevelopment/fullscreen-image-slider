@@ -1,8 +1,9 @@
 /* TEAM */
-	Web designer and developer: Marty Baldus
-	Contact: info@martybaldus.de
-	Website: https://martybaldus.de
-	From: Mudersbach, Rheinland-Pfalz, Germany
+	Web designer and developer: 	Marty Baldus
+	Contact: 			kontakt@martybaldus.de
+	Website: 			https://martybaldus.de
+	WordPress:			https://themes.martybaldus.de
+	From: 				Mudersbach, Rheinland-Pfalz, Germany
 
 /* THANKS */
 	Highway to snowy mountain, St Pedro de Atacama
@@ -34,7 +35,7 @@
 	https://unsplash.com/@lucabravo
 
 /* SITE */
-	Last update: 02/02/2020
+	Last update: 04/17/2020
 	Language: German, English
 	Doctype: HTML5
 	IDE: Visual Studio Code, XAMPP, FileZilla, Photoshop
