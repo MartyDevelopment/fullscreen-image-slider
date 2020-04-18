@@ -5,7 +5,7 @@ This is a working full-screen image slider.
 ![preview of image slider](https://martybaldus.de/images/case-studies/slider/slider-prev-apple.jpg)
 
 **Feel free to download, modify and use it. :) If you like my work, please consider to credit me.**
-I provided a humans.txt for this slider, which includes my contact details and credits the awesome photographers who shared their pictures for us to use freely. 
+I provided a humans.txt for this slider, which includes my contact details and credits the awesome photographers who shared their pictures for us to use freely. Also note that this slider uses normalize.css and boxsizing.htc - I do not take credit for either!
 
 **Working slider example on my website, [martybaldus.de](https://martybaldus.de/slider3/index.html)** 
 
