@@ -108,16 +108,5 @@
     </footer>
 
     <script src="scripts/main.min.js"></script>
-    <script>
-      // CSS vars polyfill for IE
-      // since currentScript is supported in all browsers but IE, this will fire in IE XD
-      !function (d) {
-        if (!d.currentScript) {
-          var s = d.createElement('script');
-          s.src = "scripts/ie11CustomProperties/ie11CustomProperties.js";
-          d.head.appendChild(s);
-        }
-      }(document)
-    </script>
   </body>
 </html>
