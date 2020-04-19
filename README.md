@@ -25,3 +25,6 @@ I provided a humans.txt for this slider, which includes my contact details and c
 * laptop touchpad
 * finger-swipe on mobile
 * previous/next buttons
+
+## Help
+If you encounter any issues, please inform me so I can fix them or provide support.
