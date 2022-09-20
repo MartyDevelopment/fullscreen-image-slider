@@ -123,8 +123,10 @@ img {
 
 .main-nav a {
   background: var(--trans-bg);
-  border-radius: var(--round-borders);
-  padding: 0.6rem 1.1rem;
+  /* border-radius: var(--round-borders);
+  padding: 0.6rem 1.1rem; */
+  padding: 10px 22px;
+  border-radius: 0px 30px;
 }
 
 /* =================== */
